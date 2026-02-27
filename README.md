@@ -1,5 +1,4 @@
-# 📊 Diplomado en Data Analytics  
-# 📘 Curso: Visualización de Información  
+# 📊 Diplomado en Visualización de Información  
 
 ---
 
