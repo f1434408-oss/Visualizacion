@@ -66,7 +66,7 @@ Diseñar visualizaciones alineadas con cómo el cerebro humano procesa informaci
 ### 🔹 Conceptos  
 - Storyboard analítico  
 - Narrativa basada en datos  
-- Criterios Evergreen (más de 20 principios de diseño y claridad)  
+- Criterios Evergreen Data  
 - Secuenciación estratégica de insights  
 - Contextualización de hallazgos  
 
