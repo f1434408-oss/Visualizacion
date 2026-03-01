@@ -2,139 +2,134 @@
 
 ---
 
-## 🔎 Módulo 1 – Introducción a la Minería de Datos  
+## 🗺️ Semana 1 – Visualización en la Minería de Datos  
 
 ### 🔹 Conceptos  
-- Representación de fenómenos a partir de datos  
-- Minería de patrones  
-- Descubrimiento de conocimiento (KDD)  
-- Exploración vs confirmación  
+- Rol de la visualización en el proceso de minería de datos  
+- Exploración visual de patrones  
+- Detección de anomalías  
+- Visualización como puente entre análisis y decisión  
 
 ### 🔹 Objetivo  
-Comprender cómo transformar datos en información estructurada que permita identificar patrones relevantes.
+Comprender cómo la visualización potencia la exploración, interpretación y comunicación de hallazgos dentro del proceso de análisis de datos.
 
 ### 🔹 Aplicaciones en Negocio  
-- Identificación de comportamientos recurrentes en clientes.  
-- Detección de anomalías en procesos operativos.  
-- Descubrimiento de oportunidades comerciales ocultas.  
-- Análisis exploratorio estratégico para toma de decisiones.  
+- Identificación de patrones ocultos en datasets complejos  
+- Detección temprana de anomalías operativas  
+- Apoyo visual en análisis exploratorio (EDA)  
+- Comunicación clara de insights a stakeholders  
 
 ---
 
-## 🔗 Módulo 2 – Técnicas de Minería de Datos  
+## 📈 Semana 2 – Visualización de Datos Clásicos  
 
 ### 🔹 Conceptos  
-- Itemset Mining  
-- Reglas de Asociación  
-- Sequential Pattern Mining  
-- Graph Mining  
+- Gráficos tradicionales (barras, líneas, dispersión, histogramas)  
+- Buenas prácticas de representación  
+- Interfases de visualización  
+- Arquitectura de Matplotlib  
+- Personalización y control de visualizaciones  
 
 ### 🔹 Objetivo  
-Extraer relaciones estructurales y patrones frecuentes en grandes volúmenes de datos.
+Dominar los fundamentos técnicos y estructurales de la visualización clásica para representar datos cuantitativos de manera clara y efectiva.
 
 ### 🔹 Aplicaciones en Negocio  
-- Análisis de canasta de mercado (Market Basket Analysis).  
-- Recomendación de productos.  
-- Detección de secuencias de comportamiento de clientes.  
-- Análisis de redes en fraude o telecomunicaciones.  
+- Reportes ejecutivos  
+- Dashboards analíticos  
+- Análisis comparativos  
+- Seguimiento de KPIs  
 
 ---
 
-## 👁️ Módulo 3 – Fundamentos de Visualización y Percepción  
+## 🧠 Semana 3 – Atención y Percepción Visual  
 
 ### 🔹 Conceptos  
-- Percepción humana y procesamiento visual  
-- Principios de diseño visual  
-- Codificación visual (color, tamaño, posición)  
-- Proceso de visualización de datos  
+- Principios psicológicos de la percepción  
+- Jerarquía visual  
+- Carga cognitiva  
+- Principios de la Gestalt  
+- Uso estratégico del color, forma y posición  
 
 ### 🔹 Objetivo  
-Diseñar visualizaciones que comuniquen información de forma clara, precisa y eficiente.
+Diseñar visualizaciones alineadas con cómo el cerebro humano procesa información, optimizando claridad e impacto.
 
 ### 🔹 Aplicaciones en Negocio  
-- Creación de dashboards ejecutivos efectivos.  
-- Storytelling con datos para stakeholders.  
-- Reducción de sesgos en interpretación visual.  
-- Comunicación estratégica de insights.  
+- Reducción de ruido visual en dashboards  
+- Diseño de visualizaciones intuitivas  
+- Mejora en la interpretación de métricas críticas  
+- Presentaciones ejecutivas de alto impacto  
 
 ---
 
-## 📈 Módulo 4 – Visualización de Datos Temporales  
+## 📖 Semana 4 – Visualización para Data Storytelling  
 
 ### 🔹 Conceptos  
-- Series temporales  
-- Tendencia y estacionalidad  
-- Comparaciones intertemporales  
-- Análisis de evolución  
+- Storyboard analítico  
+- Narrativa basada en datos  
+- Criterios Evergreen (más de 20 principios de diseño y claridad)  
+- Secuenciación estratégica de insights  
+- Contextualización de hallazgos  
 
 ### 🔹 Objetivo  
-Representar cambios en el tiempo para identificar patrones dinámicos y comportamientos recurrentes.
+Transformar análisis técnicos en historias comprensibles y persuasivas que impulsen decisiones estratégicas.
 
 ### 🔹 Aplicaciones en Negocio  
-- Análisis de ventas históricas.  
-- Seguimiento de KPIs estratégicos.  
-- Detección de ciclos de demanda.  
-- Monitoreo de desempeño financiero.  
+- Presentaciones a dirección  
+- Comunicación de resultados de proyectos  
+- Justificación de decisiones estratégicas  
+- Reportes narrativos para inversionistas  
 
 ---
 
-## 🗺️ Módulo 5 – Visualización de Datos Espaciales  
+## 🗺️ Semana 5 – Visualización de Datos Espaciales  
 
 ### 🔹 Conceptos  
-- Datos georreferenciados  
-- Mapas coropléticos  
-- Mapas de calor  
-- Representación geográfica de variables  
+- Vector data  
+- Raster data  
+- Point maps  
+- Spidermaps  
+- Shapefiles  
+- Fundamentos de cartografía digital  
 
 ### 🔹 Objetivo  
-Analizar patrones espaciales y distribuciones geográficas de información.
+Representar información geográfica para identificar patrones espaciales y relaciones territoriales.
 
 ### 🔹 Aplicaciones en Negocio  
-- Expansión territorial estratégica.  
-- Análisis de ventas por región.  
-- Optimización logística.  
-- Segmentación geográfica de clientes.  
+- Análisis de cobertura geográfica  
+- Optimización logística  
+- Segmentación territorial  
+- Expansión estratégica de mercado  
 
 ---
 
-## 🌍 Módulo 6 – Visualización Espacio-Temporal  
+## ⏳ Semana 6 – Visualización de Datos Temporales  
 
 ### 🔹 Conceptos  
-- Evolución geográfica en el tiempo  
-- Mapas dinámicos  
-- Animaciones temporales  
-- Integración espacio-tiempo  
+- Series de tiempo  
+- Gráfico de dispersión conectado  
+- Gráfico de instancia  
+- Yuxtaposición de mapas  
+- Plotly.js para HTML  
+- Dash para aplicaciones interactivas  
 
 ### 🔹 Objetivo  
-Integrar dimensiones espaciales y temporales para analizar fenómenos complejos y dinámicos.
+Visualizar dinámicas temporales y evolución de métricas mediante herramientas interactivas y técnicas avanzadas.
 
 ### 🔹 Aplicaciones en Negocio  
-- Seguimiento de crecimiento regional.  
-- Análisis de movilidad o distribución de demanda.  
-- Monitoreo de expansión comercial.  
-- Evaluación de eventos críticos en múltiples regiones.  
+- Seguimiento de desempeño en el tiempo  
+- Análisis de tendencias  
+- Forecast visual  
+- Dashboards interactivos para monitoreo continuo  
 
 ---
 
-## 🚀 Módulo 7 – Visualización de Big Data  
+# 🎯 Conclusión  
 
-### 🔹 Conceptos  
-- Escalabilidad visual  
-- Reducción de dimensionalidad para visualización  
-- Visualización interactiva  
-- Manejo de grandes volúmenes de datos  
+Este diplomado fortaleció:  
 
-### 🔹 Objetivo  
-Diseñar estrategias de visualización efectivas para datos masivos y de alta complejidad.
-
-### 🔹 Aplicaciones en Negocio  
-- Dashboards interactivos en tiempo real.  
-- Análisis exploratorio en grandes bases de datos.  
-- Monitoreo operativo en entornos de alto volumen.  
-- Visual analytics para toma de decisiones estratégicas.  
-
----
-
-# 🎯 Enfoque del Curso  
-
-Este curso combina minería de datos, percepción cognitiva y diseño visual para transformar datos complejos en conocimiento accionable.
+- Diseño visual estratégico  
+- Comprensión psicológica aplicada a visualización  
+- Storytelling con datos  
+- Visualización espacial y temporal avanzada  
+- Desarrollo de dashboards interactivos  
+- Comunicación ejecutiva basada en datos  
